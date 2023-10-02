@@ -1,0 +1,14 @@
+.product-create {
+    padding: 1rem;
+    margin-bottom: 2rem;
+
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &-footer {
+        display: flex;
+        justify-content: space-between;
+    }
+}

@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "asdsdasd",
+      "price": "99.33",
+      "id": 2
+    },
+    {
+      "name": "sdf sd",
+      "price": "99.93",
+      "id": 3
+    },
+    {
+      "name": " fasdf ads",
+      "price": "06654",
+      "id": 4
+    },
+    {
+      "name": "asdf sdf ",
+      "price": "54984",
+      "id": 5
+    },
+    {
+      "name": "dsf ds",
+      "price": "0212",
+      "id": 6
+    },
+    {
+      "name": "sdaf dsf",
+      "price": "023",
+      "id": 7
+    },
+    {
+      "name": "asdf sdfsdf",
+      "price": "54564",
+      "id": 8
+    }
+  ]
+}
